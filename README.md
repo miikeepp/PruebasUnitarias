@@ -138,6 +138,6 @@ npm test
 
 **Gustavo Sánchez Rodríguez**
 Asignatura: Ingeniería Web
-Clase UCC
+
 
 # Forzando ejecución del CI
